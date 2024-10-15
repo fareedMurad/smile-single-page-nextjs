@@ -1,0 +1,16 @@
+# Next.js .gitignore
+
+# Logs and cache
+.next/
+out/
+node_modules/
+yarn.lock
+package-lock.json
+
+# Environment variables
+.env*.local
+!.env.test
+
+# OS-specific files
+.DS_Store
+Thumbs.db

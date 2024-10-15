@@ -1,0 +1,11 @@
+export { default as Header } from './Header';
+export { default as Banner } from './Banner';
+export { default as SmileSection } from './SmileSection';
+export { default as ProcessSteps } from './ProcessSteps';
+export { default as GetKicked } from './GetKicked';
+export { default as TalentSection } from './TalentSection';
+export { default as NewMaterial } from './NewMaterial';
+export { default as CultureSection } from './CultureSection';
+export { default as LifeSection } from './LifeSection';
+export { default as ArtistSection } from './ArtistSection';
+export { default as Footer } from './Footer';
